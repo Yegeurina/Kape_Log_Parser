@@ -1,0 +1,231 @@
+fromTable,title,accessTime
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven_SanDisk&Prod_Cruzer_Blade&Rev_1.00#04019828110320085531&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"06/24/2021 14:44:49"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven_REALSIL&Prod_RTSUERLUN0&Rev_1.00#0000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"06/24/2021 14:44:51"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven__USB&Prod__SanDisk_3.2Gen1&Rev_1.00#0901869cef5511a15b46b3e695ddafffa27bed54265ccecca14bb5cccc7851b#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"06/24/2021 14:46:59"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven_SanDisk&Prod_Cruzer_Blade&Rev_1.00#4C530000130202209232&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"06/24/2021 14:47:00"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven__USB&Prod__SanDisk_3.2Gen1&Rev_1.00#040199029aad6b8f58cea6ef1b7089c0c731e432b395453527f6025ce5fb6ff#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"06/24/2021 14:47:00"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven_SanDisk&Prod_Cruzer_Blade&Rev_1.00#03003005020921231234&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"06/24/2021 14:47:02"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven_SanDisk&Prod_Cruzer_Blade&Rev_1.00#03019831120920031931&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"06/24/2021 14:50:20"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven_Generic&Prod_STORAGE_DEVICE&Rev_1404#7&1b594a03&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"07/14/2021 13:44:42"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven_SanDisk&Prod_Cruzer_Blade&Rev_1.27#4C530310010913104240&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"07/21/2021 01:09:29"
+setup_api,SWDWPDBUSENUM_??_USBSTOR#Disk&Ven__USB&Prod__SanDisk_3.2Gen1&Rev_1.00#010156c8115dab2cbcff9e2d813b73a811b3630f65cec54c5ef7416debd5fa6#{53f56307-b6bf-11d0-94f2-00a0c91efb8b},"08/01/2021 00:08:53"
+installlog,npp.8.1.2.Installer.x64.exe,"07/22/2021 07:46:21"
+installlog,tesseract-ocr-w64-setup-v5.0.0-alpha.20210506.exe,"07/20/2021 18:26:48"
+installlog,HashTab_v6.0.0.34_Setup.exe,"07/20/2021 12:41:28"
+installlog,android-studio-2020.3.1.22-windows.exe,"08/04/2021 10:27:36"
+installlog,ideaIC-2021.1.3.exe,"07/10/2021 15:15:34"
+installlog,[1.2.1.27._x64_003]DFAS_Pro_DEMO_Setup.exe,"08/07/2021 10:20:36"
+installlog,V3Lite_Setup.exe,"08/08/2021 05:08:25"
+installlog,readerdc_kr_ka_cra_gocd_install.exe,"08/08/2021 04:33:51"
+installlog,winsdksetup.exe,"07/10/2021 00:11:27"
+installlog,KakaoTalk_Setup.exe,"07/10/2021 00:34:17"
+installlog,npp.8.1.2.Installer.x64.exe,"07/21/2021 16:20:04"
+installlog,Wireshark-win64-3.4.6.exe,"07/13/2021 10:14:48"
+installlog,TeamViewer_.exe,"08/05/2021 21:26:16"
+installlog,Git-2.24.1.2-64-bit.exe,"07/16/2021 15:01:07"
+installlog,tesseract-ocr-w64-setup-v5.0.0-alpha.20210506.exe,"07/20/2021 17:07:01"
+installlog,diskeditor-freeware.exe,"07/30/2021 03:09:38"
+installlog,"AstroGrep_Setup_v4.4.7 (1).exe","07/27/2021 17:49:59"
+appcache,"AhnLab V3 Lite",0
+appcache,"인텔® 그래픽 제어 센터",0
+appcache,"Thunderbolt™ 제어 센터",0
+appcache,"MinGW Installation Manager",0
+appcache,"DFAS Pro DEMO - uninstall",0
+appcache,"Python 3.9 (64-bit)",0
+appcache,"Chrome","08/08/2021 13:19:06"
+appcache,"Discord","08/07/2021 22:58:49"
+appcache,"JANDI","08/08/2021 06:37:20"
+appcache,"Dolby Access",0
+appcache,"Messenger","08/02/2021 13:39:27"
+appcache,"Reference Documentation",0
+appcache,"Visit Java.com",0
+appcache,"Get Help",0
+appcache,"Google Duo",0
+appcache,"Homepage",0
+appcache,"FAQ",0
+appcache,"ReadMe",0
+appcache,"Microsoft Teams",0
+appcache,"Cortana",0
+appcache,"Git Bash","07/16/2021 15:19:51"
+appcache,"로컬 보안 정책",0
+appcache,"MySQL Installer - Community",0
+appcache,"Windows Software Development Kit",0
+appcache,"Python 3.9 Module Docs (64-bit)",0
+appcache,"작업 관리자","07/16/2021 17:30:55"
+appcache,"Console",0
+appcache,"Command Prompt for vctl",0
+appcache,"Check For Updates",0
+appcache,"컴퓨터 관리",0
+appcache,"About Java",0
+appcache,"리소스 모니터",0
+appcache,"Uninstall Zoom",0
+appcache,"MySQL 8.0 Command Line Client - Unicode",0
+appcache,"Git CMD (Deprecated)",0
+appcache,"성능 모니터",0
+appcache,"Windows Speech Recognition",0
+appcache,"Python 3.9 Manuals (64-bit)",0
+appcache,"MySQL 8.0 Command Line Client",0
+appcache,"이벤트 뷰어",0
+appcache,"작업 스케줄러",0
+appcache,"IDLE (Python 3.9 64-bit)",0
+appcache,"날씨",0
+appcache,"도움말",0
+appcache,"팁","07/09/2021 23:55:42"
+appcache,"Internet Explorer","07/25/2021 06:18:56"
+appcache,"메시지",0
+appcache,"3D 뷰어",0
+appcache,"Office","07/10/2021 01:51:42"
+appcache,"Microsoft Solitaire Collection",0
+appcache,"스티커 메모","07/23/2021 08:15:55"
+appcache,"Mixed Reality 포털",0
+appcache,"그림판 3D",0
+appcache,"Excel","08/06/2021 17:10:23"
+appcache,"OneNote",0
+appcache,"OneNote for Windows 10",0
+appcache,"PowerPoint","08/05/2021 06:57:51"
+appcache,"Office 언어 기본 설정",0
+appcache,"Word","08/08/2021 12:58:42"
+appcache,"모바일 요금제",0
+appcache,"피플","07/09/2021 23:55:42"
+appcache,"연결",0
+appcache,"캡처 및 스케치",0
+appcache,"OneDrive",0
+appcache,"Skype",0
+appcache,"Visual Studio Code","08/07/2021 23:20:16"
+appcache,"Microsoft Whiteboard",0
+appcache,"Windows 관리 도구",0
+appcache,"내 PC",0
+appcache,"제어판","08/08/2021 06:32:55"
+appcache,"파일 탐색기","08/08/2021 12:52:22"
+appcache,"Windows Media Player",0
+appcache,"사진","08/08/2021 00:00:48"
+appcache,"비디오 편집기",0
+appcache,"원격 데스크톱 연결","08/08/2021 08:03:08"
+appcache,"Windows 보안",0
+appcache,"실행",0
+appcache,"알람 및 시계",0
+appcache,"계산기","08/02/2021 16:58:51"
+appcache,"카메라",0
+appcache,"일정",0
+appcache,"메일",0
+appcache,"피드백 허브","07/09/2021 23:55:42"
+appcache,"지도","07/09/2021 23:55:42"
+appcache,"음성 녹음기",0
+appcache,"Microsoft Store",0
+appcache,"Xbox 콘솔 컴패니언",0
+appcache,"Xbox Game Bar","08/06/2021 01:18:30"
+appcache,"사용자 휴대폰",0
+appcache,"Groove 음악",0
+appcache,"영화 및 TV",0
+appcache,"Microsoft Edge","08/08/2021 04:11:13"
+appcache,"Realtek Audio Console",0
+appcache,"Link Sharing",0
+appcache,"Galaxy Book Members",0
+appcache,"Live Message",0
+appcache,"Samsung Voice Note",0
+appcache,"온라인 상담(S Service)",0
+appcache,"Samsung Gallery",0
+appcache,"Samsung Care+",0
+appcache,"Samsung Bluetooth Sync",0
+appcache,"Samsung TV Plus",0
+appcache,"Samsung PC Cleaner",0
+appcache,"Quick Search",0
+appcache,"Samsung Recovery",0
+appcache,"Screen Recorder",0
+appcache,"Samsung Security",0
+appcache,"Samsung Settings",0
+appcache,"Samsung Update","07/24/2021 04:22:04"
+appcache,"Galaxy Book Experience",0
+appcache,"Galaxy Book Smart Switch",0
+appcache,"SmartThings",0
+appcache,"Samsung Studio Plus",0
+appcache,"Samsung Flow",0
+appcache,"Samsung Notes",0
+appcache,"Quick Share",0
+appcache,"Live Wallpaper",0
+appcache,"Spotify",0
+appcache,"VMware Workstation 16 Player","07/16/2021 04:33:53"
+appcache,"VMware Workstation Pro","08/08/2021 06:05:46"
+appcache,"설정","08/07/2021 10:37:57"
+appcache,"Zoom",0
+appcache,"Application Verifier Help",0
+appcache,"Application Verifier (X64)",0
+appcache,"문자표",0
+appcache,"디스크 정리",0
+appcache,"명령 프롬프트","08/08/2021 06:33:44"
+appcache,"구성 요소 서비스",0
+appcache,"드라이브 조각 모음 및 최적화",0
+appcache,"iSCSI 초기자",0
+appcache,"돋보기",0
+appcache,"Windows 메모리 진단",0
+appcache,"시스템 구성",0
+appcache,"시스템 정보",0
+appcache,"그림판","08/05/2021 21:54:23"
+appcache,"내레이터",0
+appcache,"메모장","08/08/2021 07:47:59"
+appcache,"ODBC 데이터 원본(64비트)",0
+appcache,"화상 키보드",0
+appcache,"단계 레코더",0
+appcache,"빠른 지원",0
+appcache,"복구 드라이브",0
+appcache,"서비스",0
+appcache,"캡처 도구","08/08/2021 10:02:42"
+appcache,"고급 보안이 포함된 Windows Defender 방화벽",0
+appcache,"Windows 팩스 및 스캔",0
+appcache,"Windows PowerShell",0
+appcache,"Windows PowerShell ISE",0
+appcache,"FTK Imager","08/02/2021 08:52:23"
+appcache,"AhnReport",0
+appcache,"Android Studio",0
+appcache,"반디집","08/08/2021 07:17:50"
+appcache,"Math Input Panel",0
+appcache,"Git GUI",0
+appcache,"Active@ Disk Editor","08/02/2021 17:15:31"
+appcache,"Documentation",0
+appcache,"MySQL Shell","08/02/2021 18:41:45"
+appcache,"MySQL Workbench 8.0 CE","08/02/2021 18:41:54"
+appcache,"Notepad++",0
+appcache,"User manual (PDF/ English)",0
+appcache,"License (English)",0
+appcache,"User manual (CHM/ English)",0
+appcache,"Oracle VM VirtualBox","08/06/2021 15:14:40"
+appcache,"TeamViewer","08/06/2021 05:51:51"
+appcache,"Dokumentation",0
+appcache,"워드패드","07/22/2021 15:25:24"
+appcache,"Wireshark","07/29/2021 14:29:47"
+appcache,"Acrobat Reader DC","08/08/2021 12:21:14"
+appcache,"AstroGrep","07/29/2021 21:38:45"
+appcache,"DFAS Pro DEMO",0
+appcache,"Configure Java",0
+appcache,"카카오톡","08/08/2021 12:09:49"
+appcache,"카카오톡 제거",0
+appcache,"ChangeLog",0
+appcache,"Release Notes",0
+appcache,"전력피크타임 관리모드",0
+appcache,"Samsung DeX",0
+appcache,"Virtual Network Editor",0
+appcache,"Windows App Cert Kit",0
+appcache,"Global Flags (ARM64)",0
+appcache,"WinDbg (ARM64)",0
+appcache,"Debugging Help",0
+appcache,"Global Flags (ARM)",0
+appcache,"WinDbg (ARM)",0
+appcache,"Global Flags (X64)",0
+appcache,"WinDbg (X64)",0
+appcache,"Global Flags (X86)",0
+appcache,"WinDbg (X86)",0
+appcache,"Documentation for Desktop Apps",0
+appcache,"Samples for Desktop Apps",0
+appcache,"Tools for Desktop Apps",0
+appcache,"Documentation for Windows Store Apps",0
+appcache,"Samples for Windows Store Apps",0
+appcache,"Tools for Windows Store Apps",0
+appcache,"GPUView Help",0
+appcache,"GPUView",0
+appcache,"Windows Performance Analyzer",0
+appcache,"Windows Performance Recorder",0
+appcache,"Application Verifier (WOW)",0
+appcache,"ODBC Data Sources (32-bit)",0
+appcache,"Windows PowerShell (x86)",0
+appcache,"Windows PowerShell ISE (x86)",0
+appcache,"레지스트리 편집기","07/27/2021 08:10:42"
